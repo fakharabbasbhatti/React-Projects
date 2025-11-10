@@ -1,13 +1,13 @@
 import react from 'react'
-
 import './App.css'
+import Project from './components/Project'
 
 function App() {
  
 
   return (
     <>
-      <h2 className='test-red-500 text-5xl bg-blue-500'>fakhar</h2>
+      <Project/>
     </>
   )
 }
