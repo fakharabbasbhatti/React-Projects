@@ -22,7 +22,8 @@ function App() {
       {/* 👇 Main Project Content */}
       <Project />
     </>
-  );
+  ); 
+
 }
 
 export default App;
