@@ -6,22 +6,22 @@ import "aos/dist/aos.css";
 // Import your project images
 import img1 from "../Images/shiping.jpg";
 import img2 from "../Images/lawyer.PNG";
-import img3 from "../Images/lundary.png";
+import img3 from "../Images/lundary.PNG";
 import img4 from "../Images/charity.jpeg";
-import img5 from "../Images/carrent.png";
-import img6 from "../Images/foodymat.png";
-import img7 from "../Images/mc.png";
-import img8 from "../Images/cb.png";
-import img9 from "../Images/oc.png";
-import img10 from "../Images/ms.png";
-import img11 from "../Images/is.png";
-import img12 from "../Images/id.png";
-import img13 from "../Images/ps.png";
-import img14 from "../Images/ns.png";
-import img15 from "../Images/np.png";
-import img16 from "../Images/ph.png";
-import img17 from "../Images/tiktok.png";
-import img18 from "../Images/tc.png";
+import img5 from "../Images/carrent.PNG";
+import img6 from "../Images/foodymat.PNG";
+import img7 from "../Images/mc.PNG";
+import img8 from "../Images/cb.PNG";
+import img9 from "../Images/oc.PNG";
+import img10 from "../Images/ms.PNG";
+import img11 from "../Images/is.PNG";
+import img12 from "../Images/id.PNG";
+import img13 from "../Images/ps.PNG";
+import img14 from "../Images/ns.PNG";
+import img15 from "../Images/np.PNG";
+import img16 from "../Images/ph.PNG";
+import img17 from "../Images/tiktok.PNG";
+import img18 from "../Images/tc.PNG";
 
 const MyProjects = () => {
   useEffect(() => {
