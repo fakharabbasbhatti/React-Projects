@@ -59,12 +59,12 @@ const MyProjects = () => {
   return (
     <Fragment>
       <section id="projects" className="relative py-14 px-6 bg-gray-900 overflow-hidden">
-        {/* Decorative Background Elements */}
+        {/* Decorative Background Element */}
         <div className="absolute top-0 left-0 w-40 h-40 bg-[#38bdf8] opacity-10 rounded-full blur-3xl animate-float"></div>
         <div className="absolute bottom-0 right-0 w-60 h-60 bg-[#0ea5e9] opacity-10 rounded-full blur-3xl animate-float-delay"></div>
 
         <div className="max-w-7xl mx-auto">
-          {/* Section Header */}
+          {/* Sections Headers */}
           <div className="text-center mb-16">
             <h1 data-aos="fade-down" className="text-4xl md:text-5xl font-extrabold text-white mb-4 tracking-tight">
               My{" "}
